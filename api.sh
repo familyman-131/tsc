@@ -1,8 +1,8 @@
 #!/bin/bash
 
-SERVER="192.168.210.105"
-USER="am"
-PASS="UlEv@8329"
+SERVER=""
+USER=""
+PASS=""
 
 echo -en "\e[33;45;1m this script need jq and smbclient installed  \033[0m \n"
 
